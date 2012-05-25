@@ -5,7 +5,7 @@ Plugin URI:
 Description: Easy add icons to sidebar of categories and pages.
 Version: 1.0
 Author: stivprodanov
-Author URI: http://nicespace.me
+Author URI: http://wp-plugins-themes.com/
 */
 
 
